@@ -1,0 +1,2 @@
+## Overview
+RT or raytracing cores are special cores, designed to calculate light rays, reflections, refractions and light scatter. They work in conjunction with [[Shader]] cores to create realistic shadows and light reflections.

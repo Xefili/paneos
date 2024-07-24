@@ -1,0 +1,2 @@
+## Overview
+Shader cores are responsible for rendering and calculating shadows and reflections, as well as calculating normals and internal refractions. For more realistic and more performance efficient shadow, rendering is offloaded to [[RT]] cores.

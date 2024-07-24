@@ -1,0 +1,2 @@
+## Overview
+User Management is another [[Directors|Director]] to configure user accounts on a system. It is responsible for logon and validation and works together with the [[Credential Vault Service]] to securely sign into apps.

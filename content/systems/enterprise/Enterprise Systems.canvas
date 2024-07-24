@@ -1,0 +1,51 @@
+{
+  "nodes": [
+    {
+      "id": "f3607ade2af6d50d",
+      "type": "text",
+      "text": "Editions",
+      "x": -140,
+      "y": -280,
+      "width": 250,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "aa06400088deb5f8",
+      "type": "file",
+      "file": "systems/enterprise/Managed Enterprise.md",
+      "x": -540,
+      "y": -62,
+      "width": 400,
+      "height": 400,
+      "color": "3"
+    },
+    {
+      "id": "e58da4376ab41e70",
+      "type": "file",
+      "file": "systems/enterprise/Enterprise.md",
+      "x": 110,
+      "y": -62,
+      "width": 400,
+      "height": 400,
+      "color": "4"
+    }
+  ],
+  "edges": [
+    {
+      "id": "8ae379e18ff00a72",
+      "fromNode": "f3607ade2af6d50d",
+      "fromSide": "bottom",
+      "toNode": "aa06400088deb5f8",
+      "toSide": "top"
+    },
+    {
+      "id": "4d273de847ec72f0",
+      "fromNode": "f3607ade2af6d50d",
+      "fromSide": "bottom",
+      "toNode": "e58da4376ab41e70",
+      "toSide": "top"
+    }
+  ],
+  "metadata": {}
+}

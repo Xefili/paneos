@@ -1,0 +1,247 @@
+{
+  "nodes": [
+    {
+      "id": "5763998e57ee09ee",
+      "type": "text",
+      "text": "Incoming Traffic",
+      "x": -360,
+      "y": -500,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "a5754eecc092073b",
+      "type": "text",
+      "text": "Packager",
+      "x": -360,
+      "y": -600,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "d860eed5c598200b",
+      "type": "text",
+      "text": "Pane Defender",
+      "x": -360,
+      "y": -700,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "1887d3209a35f0e8",
+      "type": "text",
+      "text": "Router",
+      "x": -360,
+      "y": -800,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "818a79d1f99a3c3a",
+      "type": "text",
+      "text": "Outgoing Traffic",
+      "x": 140,
+      "y": -500,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "65e112b4048012a3",
+      "type": "text",
+      "text": "Packager",
+      "x": 140,
+      "y": -800,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "df53dd690e56be91",
+      "type": "text",
+      "text": "Funnel",
+      "x": 140,
+      "y": -700,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "a826606914465c76",
+      "type": "text",
+      "text": "Framer",
+      "x": 140,
+      "y": -600,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "4d75c4f4207eb04a",
+      "type": "text",
+      "text": "Application",
+      "x": -110,
+      "y": -1000,
+      "width": 250,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "a600d7085b985e10",
+      "type": "file",
+      "file": "systems/professional/Base System/Framer.md",
+      "x": 560,
+      "y": -540,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "28df650f9ac486ec",
+      "type": "file",
+      "file": "apps/Pane Defender.md",
+      "x": -880,
+      "y": -730,
+      "width": 400,
+      "height": 260
+    },
+    {
+      "id": "902a18d995096203",
+      "type": "file",
+      "file": "systems/professional/Base System/Router.md",
+      "x": -880,
+      "y": -1030,
+      "width": 400,
+      "height": 260
+    },
+    {
+      "id": "076458f065ed6c3a",
+      "type": "file",
+      "file": "systems/professional/Base System/Funnel.md",
+      "x": 560,
+      "y": -970,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "14181b58b0f418ce",
+      "type": "file",
+      "file": "systems/professional/Base System/Packager.md",
+      "x": -185,
+      "y": -340,
+      "width": 400,
+      "height": 260
+    }
+  ],
+  "edges": [
+    {
+      "id": "2b34c60ca9eb7f55",
+      "fromNode": "5763998e57ee09ee",
+      "fromSide": "top",
+      "toNode": "a5754eecc092073b",
+      "toSide": "bottom"
+    },
+    {
+      "id": "ab8a0dc2cf66b01a",
+      "fromNode": "a5754eecc092073b",
+      "fromSide": "top",
+      "toNode": "d860eed5c598200b",
+      "toSide": "bottom"
+    },
+    {
+      "id": "519fb782ef380d5c",
+      "fromNode": "d860eed5c598200b",
+      "fromSide": "top",
+      "toNode": "1887d3209a35f0e8",
+      "toSide": "bottom"
+    },
+    {
+      "id": "d2e0bce2d8d9b67c",
+      "fromNode": "65e112b4048012a3",
+      "fromSide": "bottom",
+      "toNode": "df53dd690e56be91",
+      "toSide": "top"
+    },
+    {
+      "id": "91b779448aa09363",
+      "fromNode": "df53dd690e56be91",
+      "fromSide": "bottom",
+      "toNode": "a826606914465c76",
+      "toSide": "top"
+    },
+    {
+      "id": "f745105c9a4cae65",
+      "fromNode": "a826606914465c76",
+      "fromSide": "bottom",
+      "toNode": "818a79d1f99a3c3a",
+      "toSide": "top"
+    },
+    {
+      "id": "6c9620681886d274",
+      "fromNode": "1887d3209a35f0e8",
+      "fromSide": "top",
+      "toNode": "4d75c4f4207eb04a",
+      "toSide": "bottom",
+      "color": "4"
+    },
+    {
+      "id": "dd23a20d65c3d033",
+      "fromNode": "4d75c4f4207eb04a",
+      "fromSide": "bottom",
+      "toNode": "65e112b4048012a3",
+      "toSide": "top",
+      "color": "1"
+    },
+    {
+      "id": "768f1d6dcfc5e0cc",
+      "edgeStyle": "long-dashed",
+      "fromNode": "a5754eecc092073b",
+      "fromSide": "right",
+      "toNode": "14181b58b0f418ce",
+      "toSide": "top"
+    },
+    {
+      "id": "6d671f1062e77fd7",
+      "edgeStyle": "long-dashed",
+      "fromNode": "d860eed5c598200b",
+      "fromSide": "left",
+      "toNode": "28df650f9ac486ec",
+      "toSide": "right"
+    },
+    {
+      "id": "ca62968d49dfb1a8",
+      "edgeStyle": "long-dashed",
+      "fromNode": "1887d3209a35f0e8",
+      "fromSide": "left",
+      "toNode": "902a18d995096203",
+      "toSide": "right"
+    },
+    {
+      "id": "e07937d39d193018",
+      "edgeStyle": "long-dashed",
+      "fromNode": "65e112b4048012a3",
+      "fromSide": "left",
+      "toNode": "14181b58b0f418ce",
+      "toSide": "top"
+    },
+    {
+      "id": "4b0f9e0ed3987284",
+      "edgeStyle": "long-dashed",
+      "fromNode": "df53dd690e56be91",
+      "fromSide": "right",
+      "toNode": "076458f065ed6c3a",
+      "toSide": "left"
+    },
+    {
+      "id": "d8e7030913eb7fe0",
+      "edgeStyle": "long-dashed",
+      "fromNode": "a826606914465c76",
+      "fromSide": "right",
+      "toNode": "a600d7085b985e10",
+      "toSide": "left"
+    },
+    {
+      "id": "ee606ebeba4a7958",
+      "fromNode": "df53dd690e56be91",
+      "fromSide": "left",
+      "toNode": "818a79d1f99a3c3a",
+      "toSide": "left"
+    }
+  ],
+  "metadata": {}
+}

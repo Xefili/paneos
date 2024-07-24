@@ -1,0 +1,2 @@
+## Overview
+Framer is a tool inside the [[Network]] Stack to pack packets created by the packager into larger frames (Jumbo Frames). This may increase upload speed but can also slow down uploads if the router is unable to handle larger frames.

@@ -1,0 +1,2 @@
+## Overview
+The Pane Payment Processor is a platform to handle customer payments and other transactions. All transactions are secured with SSL and experimental Post-Quantum Encryption. All receipts are hashed with the PNC-2048 cipher. 

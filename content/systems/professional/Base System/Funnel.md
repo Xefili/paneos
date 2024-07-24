@@ -1,0 +1,2 @@
+## Overview
+Directs most of the traffic from multiple different apps into a single data stream. Funnel also makes sure, that no packets overlap or interfere with each other. Funnel is also a part of the [[Network]] Stack in PaneOS.

@@ -1,0 +1,695 @@
+{
+  "nodes": [
+    {
+      "id": "b563d18bc001d8bb",
+      "type": "text",
+      "text": "Base System",
+      "x": -100,
+      "y": -320,
+      "width": 250,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "a5539ba6bc618a26",
+      "type": "file",
+      "file": "systems/professional/Base System/Kernel.md",
+      "x": 150,
+      "y": -100,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "9ee1f5b250be5e51",
+      "type": "file",
+      "file": "systems/professional/Medium Level/Utilities/Orchestrator.md",
+      "x": 150,
+      "y": 400,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "7109ddfe2453b4a5",
+      "type": "text",
+      "text": "Subsystems",
+      "x": -580,
+      "y": -100,
+      "width": 250,
+      "height": 60,
+      "color": "6"
+    },
+    {
+      "id": "fc056eae6f92a53c",
+      "type": "file",
+      "file": "systems/professional/Base System/Subsystems/Windows Subsystem.md",
+      "x": -920,
+      "y": 160,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "3b7d9a42ae8250ef",
+      "type": "file",
+      "file": "systems/professional/Base System/Subsystems/Linux Subsystem.md",
+      "x": -400,
+      "y": 160,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "39c0a432f07bd5ef",
+      "type": "text",
+      "text": "Medium level",
+      "x": -100,
+      "y": -580,
+      "width": 250,
+      "height": 52,
+      "color": "2"
+    },
+    {
+      "id": "ebb9eb741bc8f2d9",
+      "type": "text",
+      "text": "High level",
+      "x": -100,
+      "y": -860,
+      "width": 250,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "1aeea96337475d17",
+      "type": "text",
+      "text": "Utilities",
+      "x": 410,
+      "y": -584,
+      "width": 250,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "a3502414f97f619d",
+      "type": "file",
+      "file": "systems/professional/Medium Level/Utilities/Pane Utilities.md",
+      "x": 860,
+      "y": -754,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "f498dc06267d0782",
+      "type": "text",
+      "text": "Desktop",
+      "x": -620,
+      "y": -584,
+      "width": 250,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "86131453598d21ab",
+      "type": "text",
+      "text": "Frontend",
+      "x": -1020,
+      "y": -584,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "c6b115f5ecdd80ec",
+      "type": "text",
+      "text": "Backend",
+      "x": -1380,
+      "y": -582,
+      "width": 250,
+      "height": 56
+    },
+    {
+      "id": "2c809f78679b8026",
+      "type": "file",
+      "file": "systems/professional/Medium Level/Desktop/Backend/HTML Parser.md",
+      "x": -1960,
+      "y": -780,
+      "width": 400,
+      "height": 180
+    },
+    {
+      "id": "4890f7fb5ef4d5c3",
+      "type": "file",
+      "file": "systems/professional/Medium Level/Desktop/Backend/DWM.md",
+      "x": -1960,
+      "y": -500,
+      "width": 400,
+      "height": 180
+    },
+    {
+      "id": "d3edd40499d3a9f7",
+      "type": "file",
+      "file": "systems/professional/Medium Level/Desktop/Frontend/Themed Icons.md",
+      "x": -1095,
+      "y": -440,
+      "width": 400,
+      "height": 220
+    },
+    {
+      "id": "e43bd659fb2d9315",
+      "type": "file",
+      "file": "systems/professional/Base System/Network.md",
+      "x": 660,
+      "y": -100,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "f77dc6421d81a557",
+      "type": "text",
+      "text": "PaneScript",
+      "x": 1360,
+      "y": -100,
+      "width": 250,
+      "height": 60,
+      "color": "6"
+    },
+    {
+      "id": "3e9b0137e89c9206",
+      "type": "file",
+      "file": "systems/professional/Base System/PaneScript/PaneScript.md",
+      "x": 1360,
+      "y": 60,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "32aff26c66e4dfa9",
+      "type": "file",
+      "file": "systems/professional/Base System/PaneScript/PaneScript Header.md",
+      "x": 1860,
+      "y": 60,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "09d9f87cb84c8e48",
+      "type": "file",
+      "file": "ai/Scalar.md",
+      "x": 1930,
+      "y": -1260,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "06070eed43ad8a47",
+      "type": "file",
+      "file": "ai/Iconify.md",
+      "x": 1410,
+      "y": -1260,
+      "width": 400,
+      "height": 244
+    },
+    {
+      "id": "000d60f7ac32cc4c",
+      "type": "file",
+      "file": "ai/Picasso.md",
+      "x": 2170,
+      "y": -1720,
+      "width": 400,
+      "height": 320
+    },
+    {
+      "id": "3ba31657fcb39d7f",
+      "type": "text",
+      "text": "Artificial Intelligence",
+      "x": 1685,
+      "y": -1590,
+      "width": 250,
+      "height": 60,
+      "color": "6"
+    },
+    {
+      "id": "b46fcab144c180a0",
+      "type": "text",
+      "text": "Customization",
+      "x": -320,
+      "y": -1210,
+      "width": 260,
+      "height": 60,
+      "color": "#ff7a7a"
+    },
+    {
+      "id": "659a159750a2332f",
+      "type": "text",
+      "text": "Work & Efficiency",
+      "x": 80,
+      "y": -1210,
+      "width": 260,
+      "height": 60,
+      "color": "#ff7a7a"
+    },
+    {
+      "id": "36b3215bede6e3d5",
+      "type": "file",
+      "file": "systems/professional/Medium Level/Desktop/Frontend/CSS and Custom HTML.md",
+      "x": -1255,
+      "y": -1090,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "3dc22b4dff62dfa8",
+      "type": "file",
+      "file": "systems/server/modules/Cloud Integrate.md",
+      "x": 1760,
+      "y": -2440,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "02f7bb1207275d12",
+      "type": "file",
+      "file": "systems/server/modules/Network Infrastructure/Frontier.md",
+      "x": 2205,
+      "y": -2440,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "e759992cc24a5391",
+      "type": "file",
+      "file": "systems/server/modules/Management Engine.md",
+      "x": 2650,
+      "y": -2440,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "8546fcf76abf19ca",
+      "type": "text",
+      "text": "PaneOS Server",
+      "x": 2280,
+      "y": -2680,
+      "width": 250,
+      "height": 60,
+      "color": "6"
+    },
+    {
+      "id": "c3f4ba67e18fac50",
+      "type": "file",
+      "file": "systems/server/modules/Content Delievery/CDN.md",
+      "x": 1760,
+      "y": -3080,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "ba90cfcdd84abc49",
+      "type": "file",
+      "file": "systems/server/modules/Management Policy Service.md",
+      "x": 2650,
+      "y": -3080,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "17f3ca1c3876018e",
+      "type": "file",
+      "file": "systems/professional/High Level/Themes.md",
+      "x": -920,
+      "y": -1780,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "373864b71e71c750",
+      "type": "file",
+      "file": "systems/professional/High Level/Shortcuts.md",
+      "x": 410,
+      "y": -1780,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "7cf4f6a8b877148c",
+      "type": "text",
+      "text": "Applications & Tools",
+      "x": -1150,
+      "y": -3440,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "e1b3ece04b0f415d",
+      "type": "file",
+      "file": "apps/Overview.md",
+      "x": -1220,
+      "y": -3300,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "c305d930f7e99ebd",
+      "type": "file",
+      "file": "systems/professional/Medium Level/Utilities/Pane Package Manager.md",
+      "x": 335,
+      "y": -1060,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "9251e6bdbc19e762",
+      "type": "text",
+      "text": "Directors",
+      "x": 220,
+      "y": 840,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "d56c4d289452a7c8",
+      "type": "file",
+      "file": "systems/professional/Medium Level/Utilities/Memory Control.md",
+      "x": 350,
+      "y": 1040,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "27b67b0b7f4da1ad",
+      "type": "file",
+      "file": "systems/professional/Medium Level/Utilities/Hardware Management.md",
+      "x": -97,
+      "y": 1040,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "89d15a4da410580d",
+      "type": "file",
+      "file": "systems/professional/Medium Level/Utilities/Network Config.md",
+      "x": 660,
+      "y": 340,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "4747c58b11067c8d",
+      "type": "file",
+      "file": "systems/professional/Medium Level/Utilities/User Management.md",
+      "x": 800,
+      "y": 1040,
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "edges": [
+    {
+      "id": "11b13a39c6e20589",
+      "fromNode": "b563d18bc001d8bb",
+      "fromSide": "bottom",
+      "toNode": "a5539ba6bc618a26",
+      "toSide": "top"
+    },
+    {
+      "id": "f00065de614c7229",
+      "fromNode": "a5539ba6bc618a26",
+      "fromSide": "bottom",
+      "toNode": "9ee1f5b250be5e51",
+      "toSide": "top"
+    },
+    {
+      "id": "e88daa8e5af6fb4e",
+      "fromNode": "a5539ba6bc618a26",
+      "fromSide": "right",
+      "toNode": "e43bd659fb2d9315",
+      "toSide": "left"
+    },
+    {
+      "id": "6404d48696a13506",
+      "fromNode": "39c0a432f07bd5ef",
+      "fromSide": "bottom",
+      "toNode": "b563d18bc001d8bb",
+      "toSide": "top",
+      "toEnd": "none"
+    },
+    {
+      "id": "8b101ab2cad90a65",
+      "fromNode": "b563d18bc001d8bb",
+      "fromSide": "bottom",
+      "toNode": "7109ddfe2453b4a5",
+      "toSide": "top"
+    },
+    {
+      "id": "65e378b1435a16e1",
+      "fromNode": "7109ddfe2453b4a5",
+      "fromSide": "bottom",
+      "toNode": "fc056eae6f92a53c",
+      "toSide": "top"
+    },
+    {
+      "id": "7b90c85d6b4fc5dd",
+      "fromNode": "7109ddfe2453b4a5",
+      "fromSide": "bottom",
+      "toNode": "3b7d9a42ae8250ef",
+      "toSide": "top"
+    },
+    {
+      "id": "0d2bb18e32c82073",
+      "fromNode": "fc056eae6f92a53c",
+      "fromSide": "right",
+      "toNode": "3b7d9a42ae8250ef",
+      "toSide": "left",
+      "fromEnd": "arrow"
+    },
+    {
+      "id": "2e4af8641dbe12f9",
+      "fromNode": "ebb9eb741bc8f2d9",
+      "fromSide": "bottom",
+      "toNode": "39c0a432f07bd5ef",
+      "toSide": "top",
+      "toEnd": "none"
+    },
+    {
+      "id": "70c49712969583d4",
+      "fromNode": "39c0a432f07bd5ef",
+      "fromSide": "right",
+      "toNode": "1aeea96337475d17",
+      "toSide": "left"
+    },
+    {
+      "id": "67c3607ec5ebaf08",
+      "fromNode": "1aeea96337475d17",
+      "fromSide": "right",
+      "toNode": "a3502414f97f619d",
+      "toSide": "left"
+    },
+    {
+      "id": "761343d6f00a48f1",
+      "fromNode": "39c0a432f07bd5ef",
+      "fromSide": "left",
+      "toNode": "f498dc06267d0782",
+      "toSide": "right"
+    },
+    {
+      "id": "a8e04d4b82ca6ca5",
+      "fromNode": "86131453598d21ab",
+      "fromSide": "right",
+      "toNode": "f498dc06267d0782",
+      "toSide": "left"
+    },
+    {
+      "id": "9aa3be9c15e02b87",
+      "fromNode": "c6b115f5ecdd80ec",
+      "fromSide": "right",
+      "toNode": "86131453598d21ab",
+      "toSide": "left"
+    },
+    {
+      "id": "cad4d12b91995afc",
+      "fromNode": "86131453598d21ab",
+      "fromSide": "top",
+      "toNode": "36b3215bede6e3d5",
+      "toSide": "bottom"
+    },
+    {
+      "id": "800a908edffbbaca",
+      "fromNode": "2c809f78679b8026",
+      "fromSide": "right",
+      "toNode": "c6b115f5ecdd80ec",
+      "toSide": "left"
+    },
+    {
+      "id": "c4bd2c59c7ffa863",
+      "fromNode": "4890f7fb5ef4d5c3",
+      "fromSide": "top",
+      "toNode": "2c809f78679b8026",
+      "toSide": "bottom"
+    },
+    {
+      "id": "2cbb17b40fae5c2a",
+      "fromNode": "3ba31657fcb39d7f",
+      "fromSide": "bottom",
+      "toNode": "09d9f87cb84c8e48",
+      "toSide": "top"
+    },
+    {
+      "id": "ef4bbd807b32fcf1",
+      "fromNode": "3ba31657fcb39d7f",
+      "fromSide": "bottom",
+      "toNode": "06070eed43ad8a47",
+      "toSide": "top"
+    },
+    {
+      "id": "e4cf0bebf37c121c",
+      "fromNode": "3ba31657fcb39d7f",
+      "fromSide": "right",
+      "toNode": "000d60f7ac32cc4c",
+      "toSide": "left"
+    },
+    {
+      "id": "f168e9408147dd4f",
+      "fromNode": "b563d18bc001d8bb",
+      "fromSide": "right",
+      "toNode": "f77dc6421d81a557",
+      "toSide": "top"
+    },
+    {
+      "id": "55553e9a0c3068d2",
+      "fromNode": "3e9b0137e89c9206",
+      "fromSide": "right",
+      "toNode": "32aff26c66e4dfa9",
+      "toSide": "left"
+    },
+    {
+      "id": "61101eeb10564898",
+      "fromNode": "f77dc6421d81a557",
+      "fromSide": "bottom",
+      "toNode": "3e9b0137e89c9206",
+      "toSide": "top"
+    },
+    {
+      "id": "d98f90b2137f1648",
+      "fromNode": "8546fcf76abf19ca",
+      "fromSide": "bottom",
+      "toNode": "02f7bb1207275d12",
+      "toSide": "top"
+    },
+    {
+      "id": "6a919f3c20c9c13c",
+      "fromNode": "8546fcf76abf19ca",
+      "fromSide": "right",
+      "toNode": "e759992cc24a5391",
+      "toSide": "top"
+    },
+    {
+      "id": "22a4c1152438b27f",
+      "fromNode": "8546fcf76abf19ca",
+      "fromSide": "left",
+      "toNode": "3dc22b4dff62dfa8",
+      "toSide": "top"
+    },
+    {
+      "id": "2cb023dcc04a6bf0",
+      "fromNode": "8546fcf76abf19ca",
+      "fromSide": "top",
+      "toNode": "c3f4ba67e18fac50",
+      "toSide": "right"
+    },
+    {
+      "id": "53fd9b533fe8c66c",
+      "fromNode": "8546fcf76abf19ca",
+      "fromSide": "top",
+      "toNode": "ba90cfcdd84abc49",
+      "toSide": "left"
+    },
+    {
+      "id": "d533c56e14db9707",
+      "fromNode": "ebb9eb741bc8f2d9",
+      "fromSide": "top",
+      "toNode": "b46fcab144c180a0",
+      "toSide": "bottom"
+    },
+    {
+      "id": "66806808d03446e0",
+      "fromNode": "ebb9eb741bc8f2d9",
+      "fromSide": "top",
+      "toNode": "659a159750a2332f",
+      "toSide": "bottom"
+    },
+    {
+      "id": "fe8818864a0757ab",
+      "fromNode": "b46fcab144c180a0",
+      "fromSide": "left",
+      "toNode": "36b3215bede6e3d5",
+      "toSide": "top"
+    },
+    {
+      "id": "578e2a51a4fbb4e5",
+      "fromNode": "b46fcab144c180a0",
+      "fromSide": "left",
+      "toNode": "17f3ca1c3876018e",
+      "toSide": "bottom"
+    },
+    {
+      "id": "fa9f50d801025144",
+      "fromNode": "659a159750a2332f",
+      "fromSide": "top",
+      "toNode": "373864b71e71c750",
+      "toSide": "bottom"
+    },
+    {
+      "id": "9f303d9381e0d3b3",
+      "fromNode": "7cf4f6a8b877148c",
+      "fromSide": "bottom",
+      "toNode": "e1b3ece04b0f415d",
+      "toSide": "top"
+    },
+    {
+      "id": "9dfb3826fb7c42d3",
+      "fromNode": "1aeea96337475d17",
+      "fromSide": "top",
+      "toNode": "c305d930f7e99ebd",
+      "toSide": "bottom"
+    },
+    {
+      "id": "11a3f8bb9c81322b",
+      "fromNode": "9251e6bdbc19e762",
+      "fromSide": "top",
+      "toNode": "9ee1f5b250be5e51",
+      "toSide": "bottom"
+    },
+    {
+      "id": "9c0a8a234eb35f52",
+      "fromNode": "d56c4d289452a7c8",
+      "fromSide": "top",
+      "toNode": "9251e6bdbc19e762",
+      "toSide": "bottom"
+    },
+    {
+      "id": "eafde5e147cfc560",
+      "fromNode": "27b67b0b7f4da1ad",
+      "fromSide": "top",
+      "toNode": "9251e6bdbc19e762",
+      "toSide": "bottom"
+    },
+    {
+      "id": "7837c7117cf0b634",
+      "fromNode": "89d15a4da410580d",
+      "fromSide": "bottom",
+      "toNode": "9251e6bdbc19e762",
+      "toSide": "right"
+    },
+    {
+      "id": "63ad87b0b0479fe7",
+      "fromNode": "89d15a4da410580d",
+      "fromSide": "top",
+      "toNode": "e43bd659fb2d9315",
+      "toSide": "bottom"
+    },
+    {
+      "id": "c7e4663895156a2e",
+      "fromNode": "4747c58b11067c8d",
+      "fromSide": "top",
+      "toNode": "9251e6bdbc19e762",
+      "toSide": "right"
+    }
+  ],
+  "metadata": {}
+}

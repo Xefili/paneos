@@ -1,0 +1,193 @@
+{
+  "nodes": [
+    {
+      "id": "cbe4f0c2e24f1549",
+      "type": "file",
+      "file": "Pane Router.md",
+      "x": -200,
+      "y": -840,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "338d048d0f1c89b6",
+      "type": "text",
+      "text": "Inbound Data",
+      "x": -500,
+      "y": -280,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "5361d6855132afa6",
+      "type": "text",
+      "text": "Outbound Data",
+      "x": 240,
+      "y": -280,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "8d937976cef2fa77",
+      "type": "file",
+      "file": "Multiplexer.md",
+      "x": 170,
+      "y": -140,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "a47a9b0f4d3b9a02",
+      "type": "file",
+      "file": "Inverse Multiplexer.md",
+      "x": -570,
+      "y": -140,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "05b9b7744f553e96",
+      "type": "file",
+      "file": "Load Balancer.md",
+      "x": -570,
+      "y": 360,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "011daf5e9b912c45",
+      "type": "file",
+      "file": "Concentrator.md",
+      "x": 170,
+      "y": 360,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "608d5e1ad12846b6",
+      "type": "file",
+      "file": "systems/server/modules/High Performance Fibre Optic Data Transmission.md",
+      "x": 720,
+      "y": 140,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "641e47f23e170b6f",
+      "type": "file",
+      "file": "systems/server/modules/Blade.md",
+      "x": -320,
+      "y": 940,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "8224ad0ea3e84841",
+      "type": "file",
+      "file": "systems/server/PaneOS Server Structure.canvas",
+      "x": 170,
+      "y": 2100,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "520427cb39beef0a",
+      "type": "file",
+      "file": "systems/professional/Base System/Network Stack.canvas",
+      "x": -320,
+      "y": 1440,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "3616979488aab414",
+      "type": "file",
+      "file": "Compute Node.md",
+      "x": -320,
+      "y": 1880,
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "edges": [
+    {
+      "id": "b028f20d1235668e",
+      "fromNode": "8224ad0ea3e84841",
+      "fromSide": "top",
+      "toNode": "3616979488aab414",
+      "toSide": "right"
+    },
+    {
+      "id": "247206c9a804d2c8",
+      "fromNode": "cbe4f0c2e24f1549",
+      "fromSide": "bottom",
+      "toNode": "338d048d0f1c89b6",
+      "toSide": "top"
+    },
+    {
+      "id": "1fb5859b744f6cbb",
+      "fromNode": "5361d6855132afa6",
+      "fromSide": "top",
+      "toNode": "cbe4f0c2e24f1549",
+      "toSide": "bottom"
+    },
+    {
+      "id": "eabae5fa3e92df9d",
+      "fromNode": "8d937976cef2fa77",
+      "fromSide": "top",
+      "toNode": "5361d6855132afa6",
+      "toSide": "bottom"
+    },
+    {
+      "id": "5ae102538cdb84f9",
+      "fromNode": "011daf5e9b912c45",
+      "fromSide": "top",
+      "toNode": "8d937976cef2fa77",
+      "toSide": "bottom"
+    },
+    {
+      "id": "525737f747b6a72d",
+      "fromNode": "520427cb39beef0a",
+      "fromSide": "right",
+      "toNode": "011daf5e9b912c45",
+      "toSide": "bottom"
+    },
+    {
+      "id": "966cb9cf51bec763",
+      "fromNode": "3616979488aab414",
+      "fromSide": "top",
+      "toNode": "520427cb39beef0a",
+      "toSide": "bottom",
+      "fromEnd": "arrow"
+    },
+    {
+      "id": "b95c258a780cfed0",
+      "fromNode": "a47a9b0f4d3b9a02",
+      "fromSide": "bottom",
+      "toNode": "05b9b7744f553e96",
+      "toSide": "top"
+    },
+    {
+      "id": "438aae2b2b1e402a",
+      "fromNode": "338d048d0f1c89b6",
+      "fromSide": "bottom",
+      "toNode": "a47a9b0f4d3b9a02",
+      "toSide": "top"
+    },
+    {
+      "id": "7244c8d5d5175eb3",
+      "fromNode": "05b9b7744f553e96",
+      "fromSide": "bottom",
+      "toNode": "641e47f23e170b6f",
+      "toSide": "top"
+    },
+    {
+      "id": "344c5ffe6e33c966",
+      "fromNode": "641e47f23e170b6f",
+      "fromSide": "bottom",
+      "toNode": "520427cb39beef0a",
+      "toSide": "top"
+    }
+  ],
+  "metadata": {}
+}

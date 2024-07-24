@@ -1,0 +1,112 @@
+{
+  "nodes": [
+    {
+      "id": "a32482a9ffb358a1",
+      "type": "text",
+      "text": "Base System",
+      "x": -140,
+      "y": -140,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "b8ac6d9a5dcfe38d",
+      "type": "text",
+      "text": "Editions",
+      "x": -140,
+      "y": -340,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "e9b4a144d83a4cf2",
+      "type": "file",
+      "file": "systems/server/modules/Modules.canvas",
+      "x": -540,
+      "y": 100,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "0c07cadca6542222",
+      "type": "file",
+      "file": "systems/server/Kernel (Server).md",
+      "x": -10,
+      "y": 100,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "f44e771a7263f7d5",
+      "type": "text",
+      "text": "Other Base System Components from the main OS",
+      "x": 320,
+      "y": -160,
+      "width": 260,
+      "height": 100
+    },
+    {
+      "id": "eb239988e560920c",
+      "type": "file",
+      "file": "systems/server/PaneOS Server Desktop.md",
+      "x": -520,
+      "y": -920,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "8b89272b4146c8fb",
+      "type": "file",
+      "file": "systems/server/PaneOS Server Terminal.md",
+      "x": 90,
+      "y": -920,
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "edges": [
+    {
+      "id": "45b5a10b950dab0b",
+      "fromNode": "a32482a9ffb358a1",
+      "fromSide": "top",
+      "toNode": "b8ac6d9a5dcfe38d",
+      "toSide": "bottom"
+    },
+    {
+      "id": "a012cf3b7722b060",
+      "fromNode": "e9b4a144d83a4cf2",
+      "fromSide": "top",
+      "toNode": "a32482a9ffb358a1",
+      "toSide": "bottom"
+    },
+    {
+      "id": "bd40fdb84cecd8fb",
+      "fromNode": "0c07cadca6542222",
+      "fromSide": "top",
+      "toNode": "a32482a9ffb358a1",
+      "toSide": "bottom"
+    },
+    {
+      "id": "86382b2737929716",
+      "fromNode": "f44e771a7263f7d5",
+      "fromSide": "left",
+      "toNode": "a32482a9ffb358a1",
+      "toSide": "right"
+    },
+    {
+      "id": "7857a16c57a58a27",
+      "fromNode": "b8ac6d9a5dcfe38d",
+      "fromSide": "top",
+      "toNode": "eb239988e560920c",
+      "toSide": "bottom"
+    },
+    {
+      "id": "8935b4b75ae825fe",
+      "fromNode": "b8ac6d9a5dcfe38d",
+      "fromSide": "top",
+      "toNode": "8b89272b4146c8fb",
+      "toSide": "bottom"
+    }
+  ],
+  "metadata": {}
+}

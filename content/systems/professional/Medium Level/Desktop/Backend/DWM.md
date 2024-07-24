@@ -1,0 +1,2 @@
+## Overview
+The Desktop Window Manager for PaneOS is an application to display and manage windows. It is also responsible for tiling. The DWM can be extended with the [[HTML Parser]] to create custom layouts, as well as custom styles using [[CSS and Custom HTML]].
