@@ -1,2 +1,2 @@
 ## Overview
-Picasso is an image generator, powered by [[Scalar]]. It allows users to generate high quality images with prompts and multiple different styles. This network can also run locally on Quixel CPUs and Pixel TPUs.
+Picasso is an image generator, powered by [[Scalar]]. It allows users to generate high quality images with prompts and multiple different styles. This network can also run locally on Quixel CPUs, Pixel TPUs and [[Pixel GPU#Datacenter Cards|Datacenter Cards]].

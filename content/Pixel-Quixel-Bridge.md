@@ -1,0 +1,2 @@
+## Overview
+The Pixel-Quixel-Bridge is a device allowing a [[Quixel CPUs]] to share it's cache with a [[Pixel GPU]]. It can share L2-4 cache but not register L1 cache. One bridge can connect a maximum of two cards.

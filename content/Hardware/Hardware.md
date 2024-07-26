@@ -1,0 +1,2 @@
+## Overview
+Pane Electronics and the Pane Foundation have released several electronic devices, such as CPUs, GPUs, Switches and other processing units. Notable products are the PN4500 Switch, and the [[Quixel CPUs]] and [[Pixel GPU]] line-ups. Milestone products include the [[Glass CPUs]] and the [[Gemstone CPUs]]. Previous GPUs aren't as notable but include Pixel (O) and Iris cards.
