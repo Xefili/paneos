@@ -11,4 +11,4 @@ Option can be a memory operation like shift, rearrange or free up. Arguments are
 Memory block size is dependant on the amount of physical and virtual memory installed on the system. A block may range from 4KB to 16MB.
 
 ## Restriction & Memory Safety
-This tool can be used to read any memory and modify almost all parts of the memory during the operation of the system. Therefore, this tool can reveal sensitive information and may only be accessed by the administrator user and cannot be invoked with an elevated application.
+This tool can be used to read any memory and modify almost all parts of the memory during the operation of the system. Therefore, this tool can reveal sensitive information and may only be accessed by the administrator user or the [[Pane Foundation user]] and cannot be invoked with an elevated application.

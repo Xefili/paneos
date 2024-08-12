@@ -1,0 +1,2 @@
+## Overview
+Balance Sheet is a tool to create invoices, manage payments and create balance sheets. It follows industry standards and is fully compliant with any laws in the United States and in the European Economic Area.

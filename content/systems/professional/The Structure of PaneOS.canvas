@@ -57,26 +57,6 @@
       "height": 400
     },
     {
-      "id": "39c0a432f07bd5ef",
-      "type": "text",
-      "text": "Medium level",
-      "x": -100,
-      "y": -580,
-      "width": 250,
-      "height": 52,
-      "color": "2"
-    },
-    {
-      "id": "ebb9eb741bc8f2d9",
-      "type": "text",
-      "text": "High level",
-      "x": -100,
-      "y": -860,
-      "width": 250,
-      "height": 60,
-      "color": "3"
-    },
-    {
       "id": "1aeea96337475d17",
       "type": "text",
       "text": "Utilities",
@@ -160,34 +140,6 @@
       "height": 400
     },
     {
-      "id": "f77dc6421d81a557",
-      "type": "text",
-      "text": "PaneScript",
-      "x": 1360,
-      "y": -100,
-      "width": 250,
-      "height": 60,
-      "color": "6"
-    },
-    {
-      "id": "3e9b0137e89c9206",
-      "type": "file",
-      "file": "systems/professional/Base System/PaneScript/PaneScript.md",
-      "x": 1360,
-      "y": 60,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "32aff26c66e4dfa9",
-      "type": "file",
-      "file": "systems/professional/Base System/PaneScript/PaneScript Header.md",
-      "x": 1860,
-      "y": 60,
-      "width": 400,
-      "height": 400
-    },
-    {
       "id": "09d9f87cb84c8e48",
       "type": "file",
       "file": "ai/Scalar.md",
@@ -254,61 +206,6 @@
       "height": 400
     },
     {
-      "id": "3dc22b4dff62dfa8",
-      "type": "file",
-      "file": "systems/server/modules/Cloud Integrate.md",
-      "x": 1760,
-      "y": -2440,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "02f7bb1207275d12",
-      "type": "file",
-      "file": "systems/server/modules/Network Infrastructure/Frontier.md",
-      "x": 2205,
-      "y": -2440,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "e759992cc24a5391",
-      "type": "file",
-      "file": "systems/server/modules/Management Engine.md",
-      "x": 2650,
-      "y": -2440,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "8546fcf76abf19ca",
-      "type": "text",
-      "text": "PaneOS Server",
-      "x": 2280,
-      "y": -2680,
-      "width": 250,
-      "height": 60,
-      "color": "6"
-    },
-    {
-      "id": "c3f4ba67e18fac50",
-      "type": "file",
-      "file": "systems/server/modules/Content Delievery/CDN.md",
-      "x": 1760,
-      "y": -3080,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "ba90cfcdd84abc49",
-      "type": "file",
-      "file": "systems/server/modules/Management Policy Service.md",
-      "x": 2650,
-      "y": -3080,
-      "width": 400,
-      "height": 400
-    },
-    {
       "id": "17f3ca1c3876018e",
       "type": "file",
       "file": "systems/professional/High Level/Themes.md",
@@ -363,24 +260,6 @@
       "height": 60
     },
     {
-      "id": "d56c4d289452a7c8",
-      "type": "file",
-      "file": "systems/professional/Medium Level/Utilities/Memory Control.md",
-      "x": 350,
-      "y": 1040,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "27b67b0b7f4da1ad",
-      "type": "file",
-      "file": "systems/professional/Medium Level/Utilities/Hardware Management.md",
-      "x": -97,
-      "y": 1040,
-      "width": 400,
-      "height": 400
-    },
-    {
       "id": "89d15a4da410580d",
       "type": "file",
       "file": "systems/professional/Medium Level/Utilities/Network Config.md",
@@ -390,11 +269,231 @@
       "height": 400
     },
     {
+      "id": "f77dc6421d81a557",
+      "type": "text",
+      "text": "PaneScript",
+      "x": 1760,
+      "y": -100,
+      "width": 250,
+      "height": 60,
+      "color": "6"
+    },
+    {
+      "id": "3e9b0137e89c9206",
+      "type": "file",
+      "file": "systems/professional/Base System/PaneScript/PaneScript.md",
+      "x": 1760,
+      "y": 60,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "32aff26c66e4dfa9",
+      "type": "file",
+      "file": "systems/professional/Base System/PaneScript/PaneScript Header.md",
+      "x": 2260,
+      "y": 60,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "e3777960f48aa330",
+      "type": "file",
+      "file": "systems/professional/Medium Level/Utilities/Frontier.md",
+      "x": 1200,
+      "y": -100,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "482f0985a8173bdc",
+      "type": "file",
+      "file": "Android Subsystem.md",
+      "x": -400,
+      "y": 670,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "508b9efeda637e3b",
+      "type": "file",
+      "file": "Subsystem file access.md",
+      "x": -1380,
+      "y": -40,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "27b67b0b7f4da1ad",
+      "type": "file",
+      "file": "systems/professional/Medium Level/Utilities/Hardware Management.md",
+      "x": 33,
+      "y": 1040,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "d56c4d289452a7c8",
+      "type": "file",
+      "file": "systems/professional/Medium Level/Utilities/Memory Control.md",
+      "x": 480,
+      "y": 1040,
+      "width": 400,
+      "height": 400
+    },
+    {
       "id": "4747c58b11067c8d",
       "type": "file",
       "file": "systems/professional/Medium Level/Utilities/User Management.md",
-      "x": 800,
+      "x": 930,
       "y": 1040,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "0099826c6ca05723",
+      "type": "file",
+      "file": "systems/professional/Medium Level/Medium Level.md",
+      "x": -175,
+      "y": -640,
+      "width": 400,
+      "height": 172,
+      "color": "2"
+    },
+    {
+      "id": "5b1d7399deed3c97",
+      "type": "file",
+      "file": "systems/professional/High Level/High Level.md",
+      "x": -175,
+      "y": -1020,
+      "width": 400,
+      "height": 180,
+      "color": "3"
+    },
+    {
+      "id": "ba90cfcdd84abc49",
+      "type": "file",
+      "file": "systems/server/modules/Management Policy Service.md",
+      "x": 2630,
+      "y": 740,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "8546fcf76abf19ca",
+      "type": "text",
+      "text": "PaneOS Server",
+      "x": 2260,
+      "y": 1140,
+      "width": 250,
+      "height": 60,
+      "color": "6"
+    },
+    {
+      "id": "3dc22b4dff62dfa8",
+      "type": "file",
+      "file": "systems/server/modules/Cloud Integrate.md",
+      "x": 1740,
+      "y": 1380,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "e759992cc24a5391",
+      "type": "file",
+      "file": "systems/server/modules/Management Engine.md",
+      "x": 2630,
+      "y": 1380,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "c3f4ba67e18fac50",
+      "type": "file",
+      "file": "systems/server/modules/Content Delievery/CDN.md",
+      "x": 2185,
+      "y": 1380,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "4990522beebebbea",
+      "type": "file",
+      "file": "systems/server/Live Kernel Swap.md",
+      "x": 3160,
+      "y": 1080,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "fe83c6dd57c1bc92",
+      "type": "text",
+      "text": "Developers",
+      "x": -150,
+      "y": -3135,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "3f8a6e433df88ac2",
+      "type": "file",
+      "file": "apps/Developer Studio.md",
+      "x": -220,
+      "y": -2947,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "0941a7c0a56a6cce",
+      "type": "file",
+      "file": "apps/Importer.md",
+      "x": 320,
+      "y": -3305,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "e43d893d04e1bc64",
+      "type": "file",
+      "file": "apps/Visual Studio Extension for PaneScript.md",
+      "x": -220,
+      "y": -3640,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "9f7a3054f8b6266e",
+      "type": "text",
+      "text": "Professionals",
+      "x": -1150,
+      "y": -2607,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "106ac5564bd87522",
+      "type": "file",
+      "file": "apps/Office.md",
+      "x": -1700,
+      "y": -2777,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "a2ff40e16cc22a27",
+      "type": "file",
+      "file": "apps/Balance Sheet.md",
+      "x": -720,
+      "y": -2777,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "6a6bf6cc3b87a79f",
+      "type": "file",
+      "file": "apps/Pane Payment Processor.md",
+      "x": -1220,
+      "y": -2300,
       "width": 400,
       "height": 400
     }
@@ -420,14 +519,6 @@
       "fromSide": "right",
       "toNode": "e43bd659fb2d9315",
       "toSide": "left"
-    },
-    {
-      "id": "6404d48696a13506",
-      "fromNode": "39c0a432f07bd5ef",
-      "fromSide": "bottom",
-      "toNode": "b563d18bc001d8bb",
-      "toSide": "top",
-      "toEnd": "none"
     },
     {
       "id": "8b101ab2cad90a65",
@@ -459,33 +550,11 @@
       "fromEnd": "arrow"
     },
     {
-      "id": "2e4af8641dbe12f9",
-      "fromNode": "ebb9eb741bc8f2d9",
-      "fromSide": "bottom",
-      "toNode": "39c0a432f07bd5ef",
-      "toSide": "top",
-      "toEnd": "none"
-    },
-    {
-      "id": "70c49712969583d4",
-      "fromNode": "39c0a432f07bd5ef",
-      "fromSide": "right",
-      "toNode": "1aeea96337475d17",
-      "toSide": "left"
-    },
-    {
       "id": "67c3607ec5ebaf08",
       "fromNode": "1aeea96337475d17",
       "fromSide": "right",
       "toNode": "a3502414f97f619d",
       "toSide": "left"
-    },
-    {
-      "id": "761343d6f00a48f1",
-      "fromNode": "39c0a432f07bd5ef",
-      "fromSide": "left",
-      "toNode": "f498dc06267d0782",
-      "toSide": "right"
     },
     {
       "id": "a8e04d4b82ca6ca5",
@@ -565,13 +634,6 @@
       "toSide": "top"
     },
     {
-      "id": "d98f90b2137f1648",
-      "fromNode": "8546fcf76abf19ca",
-      "fromSide": "bottom",
-      "toNode": "02f7bb1207275d12",
-      "toSide": "top"
-    },
-    {
       "id": "6a919f3c20c9c13c",
       "fromNode": "8546fcf76abf19ca",
       "fromSide": "right",
@@ -586,32 +648,11 @@
       "toSide": "top"
     },
     {
-      "id": "2cb023dcc04a6bf0",
-      "fromNode": "8546fcf76abf19ca",
-      "fromSide": "top",
-      "toNode": "c3f4ba67e18fac50",
-      "toSide": "right"
-    },
-    {
       "id": "53fd9b533fe8c66c",
       "fromNode": "8546fcf76abf19ca",
       "fromSide": "top",
       "toNode": "ba90cfcdd84abc49",
       "toSide": "left"
-    },
-    {
-      "id": "d533c56e14db9707",
-      "fromNode": "ebb9eb741bc8f2d9",
-      "fromSide": "top",
-      "toNode": "b46fcab144c180a0",
-      "toSide": "bottom"
-    },
-    {
-      "id": "66806808d03446e0",
-      "fromNode": "ebb9eb741bc8f2d9",
-      "fromSide": "top",
-      "toNode": "659a159750a2332f",
-      "toSide": "bottom"
     },
     {
       "id": "fe8818864a0757ab",
@@ -689,6 +730,149 @@
       "fromSide": "top",
       "toNode": "9251e6bdbc19e762",
       "toSide": "right"
+    },
+    {
+      "id": "3363cbc08409497e",
+      "fromNode": "b563d18bc001d8bb",
+      "fromSide": "right",
+      "toNode": "e3777960f48aa330",
+      "toSide": "top"
+    },
+    {
+      "id": "276ff8049642874b",
+      "fromNode": "3b7d9a42ae8250ef",
+      "fromSide": "bottom",
+      "toNode": "482f0985a8173bdc",
+      "toSide": "top"
+    },
+    {
+      "id": "a9cf52a5e896e7d5",
+      "fromNode": "7109ddfe2453b4a5",
+      "fromSide": "left",
+      "toNode": "508b9efeda637e3b",
+      "toSide": "right"
+    },
+    {
+      "id": "2bf3a1a4afb35981",
+      "fromNode": "f498dc06267d0782",
+      "fromSide": "right",
+      "toNode": "0099826c6ca05723",
+      "toSide": "left"
+    },
+    {
+      "id": "3c52d5556c6dc98d",
+      "fromNode": "1aeea96337475d17",
+      "fromSide": "left",
+      "toNode": "0099826c6ca05723",
+      "toSide": "right"
+    },
+    {
+      "id": "2e6daa4e5b4ff1d1",
+      "fromNode": "b563d18bc001d8bb",
+      "fromSide": "top",
+      "toNode": "0099826c6ca05723",
+      "toSide": "bottom",
+      "toEnd": "none"
+    },
+    {
+      "id": "2a5a92bb2bed89de",
+      "fromNode": "5b1d7399deed3c97",
+      "fromSide": "bottom",
+      "toNode": "0099826c6ca05723",
+      "toSide": "top",
+      "toEnd": "none"
+    },
+    {
+      "id": "e7d539884e3bcf19",
+      "fromNode": "5b1d7399deed3c97",
+      "fromSide": "top",
+      "toNode": "b46fcab144c180a0",
+      "toSide": "bottom"
+    },
+    {
+      "id": "987beb248f87a741",
+      "fromNode": "5b1d7399deed3c97",
+      "fromSide": "top",
+      "toNode": "659a159750a2332f",
+      "toSide": "bottom"
+    },
+    {
+      "id": "b18ab6acf28d0b64",
+      "fromNode": "e3777960f48aa330",
+      "fromSide": "bottom",
+      "toNode": "8546fcf76abf19ca",
+      "toSide": "top",
+      "toEnd": "none"
+    },
+    {
+      "id": "b46a89cff5cdc168",
+      "fromNode": "8546fcf76abf19ca",
+      "fromSide": "bottom",
+      "toNode": "c3f4ba67e18fac50",
+      "toSide": "top"
+    },
+    {
+      "id": "03260d4809c32fd0",
+      "fromNode": "8546fcf76abf19ca",
+      "fromSide": "right",
+      "toNode": "4990522beebebbea",
+      "toSide": "left"
+    },
+    {
+      "id": "be7a312df7d6a065",
+      "fromNode": "e1b3ece04b0f415d",
+      "fromSide": "right",
+      "toNode": "fe83c6dd57c1bc92",
+      "toSide": "left"
+    },
+    {
+      "id": "6b03cad73fdee9fb",
+      "fromNode": "fe83c6dd57c1bc92",
+      "fromSide": "bottom",
+      "toNode": "3f8a6e433df88ac2",
+      "toSide": "top"
+    },
+    {
+      "id": "c2bb08c03f26691d",
+      "fromNode": "fe83c6dd57c1bc92",
+      "fromSide": "right",
+      "toNode": "0941a7c0a56a6cce",
+      "toSide": "left"
+    },
+    {
+      "id": "5c1fb6a16a444fa9",
+      "fromNode": "fe83c6dd57c1bc92",
+      "fromSide": "top",
+      "toNode": "e43d893d04e1bc64",
+      "toSide": "bottom"
+    },
+    {
+      "id": "5b7aebb5c9a06892",
+      "fromNode": "e1b3ece04b0f415d",
+      "fromSide": "bottom",
+      "toNode": "9f7a3054f8b6266e",
+      "toSide": "top"
+    },
+    {
+      "id": "6abf081e80a7eb7d",
+      "fromNode": "9f7a3054f8b6266e",
+      "fromSide": "left",
+      "toNode": "106ac5564bd87522",
+      "toSide": "right"
+    },
+    {
+      "id": "dc2fe5eb43b2ef1e",
+      "fromNode": "9f7a3054f8b6266e",
+      "fromSide": "right",
+      "toNode": "a2ff40e16cc22a27",
+      "toSide": "left"
+    },
+    {
+      "id": "1a1eac42bbe7eafb",
+      "fromNode": "9f7a3054f8b6266e",
+      "fromSide": "bottom",
+      "toNode": "6a6bf6cc3b87a79f",
+      "toSide": "top"
     }
   ],
   "metadata": {}
